@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "dwes"
+theme ='learn'
+editURL = ""
+disableLandingPage = "false"
+
+
+[outputs]
+home=['HTML','JSON','RSS']
+
+
+landingPageURL = "/es"
+landingPageName = "<i class='fas fa-home'></i> Casa"
+
+[params]
+    themeVariant = "blue"
